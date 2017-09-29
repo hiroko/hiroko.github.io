@@ -9,7 +9,7 @@ h1 {
 #banner {
   background-image: url("002.png");
   background-size: cover;
-  background-position: bottom center;
+  background-position: middle center;
   height: 700px;
   width: 100%;
 }
