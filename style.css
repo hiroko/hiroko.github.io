@@ -1,0 +1,23 @@
+
+h1 {
+  color: white;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+}
+
+#banner {
+  background-image: url("002.png");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+
+#banner .content h1 {
+  position: relative;
+  top: 100px;
+  width: 400px;
+  margin: 0 auto;
+  border: 3px solid white;
+}
