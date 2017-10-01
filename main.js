@@ -1,4 +1,4 @@
-//note all the quotes within quotes
+$(function() {
 
 var cnt=0, texts=["'First Quote!' - A Student", "'Second quote!' - A Colleague", "'Third Quote' - An employer"];
 
@@ -17,3 +17,5 @@ function slide() {
   );
 }
 slide()
+
+})
