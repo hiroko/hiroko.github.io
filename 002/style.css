@@ -1,16 +1,24 @@
-
 .parent {
   display: flex;
-  height: 600px; 
+  height: 600px;
   align-items: flex-end;
 }
 
 .child {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border: 1px solid #000000;
   padding: 5px;
-  margin: auto;  
+  margin: auto;
+}
+
+.child2 {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #000000;
+  Background-color: #C0C0C0;
+  padding: 5px;
+  margin: auto;
 }
 
 .container {
@@ -19,4 +27,9 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: flex-end;
+}
+
+@media screen and (max width: 800px);{
+	background-color: blue;
+	text-align: right;
 }
