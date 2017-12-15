@@ -1,0 +1,41 @@
+
+h1 {
+  text-align: center;
+  padding-top: 5px;
+}
+
+h6 {
+  text-align: center;
+  font-style: italic;
+  font-size: 11px;
+  padding: 5px;
+}
+
+.bargraph {
+  list-style: none;
+  padding: 10px;
+  width: 600px;
+  background: #E28159;
+  margin: 0 auto;
+}
+
+ul.bargraph li {
+  height: 35px;
+  color: white;
+  text-align: left;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 14px;
+  line-height: 35px;
+  padding: 0px 20px;
+}
+
+ul.bargraph li.first {
+  background: #ED1C24;
+  width: 3%;
+}
+
+ul.bargraph li.second {
+  background: #EF465B;
+  width: 68%;
+}
