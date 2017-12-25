@@ -6,6 +6,12 @@
     color: #ffeead;
 }
 
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #ff6f69;
+}
+
 html, body {
   background-color: #ffeead;
   margin: 10px;
