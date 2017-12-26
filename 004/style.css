@@ -6,7 +6,7 @@ html, body {
 .item {
   display: grid;
   grid-gap: 5px;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .item > div {
@@ -19,11 +19,13 @@ html, body {
 }
 
 .title {
-  grid-column: 2 / 6;
+  grid-column: 2 / 3;
+  grid-row: 1;
 }
 
 .text {
-  grid-column: 6 / 10;
+  grid-column: 2 / 3;
+  grid-row: 2;
 }
 
 .container {
@@ -46,4 +48,12 @@ h1 {
   text-align: center;
   font-size: 2em;
   color: #ff6f69;
+}
+
+
+/* Colors */
+
+/* Red = >$100 */
+.red {
+  background-color: #8B0000;
 }
