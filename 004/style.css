@@ -37,6 +37,15 @@ html, body {
     grid-template-rows: repeat(10, 100px);
 }
 
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: #ffeead;
+    /* background-color: #C0C0C0; */
+}
+
 /*
   Red = >$100
   Orange = $50<x<$100
@@ -47,7 +56,6 @@ html, body {
 
 .red {
   background-color: #B20000;
-  align-self: stretch;
 }
 
 .orange {
@@ -69,15 +77,6 @@ html, body {
 .empty {
   background-color: #ffcc5c;
 }
-
-.container > div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2em;
-    color: #ffeead;
-}
-
 
 
 h1 {
