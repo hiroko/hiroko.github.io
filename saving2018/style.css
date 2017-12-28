@@ -12,7 +12,6 @@ html, body {
 
 .item > div {
   display: flex;
-
   font-size: 14px;
   color: #000000;
   background-color: #ffcc5c;
@@ -88,7 +87,7 @@ h1 {
   text-align: center;
   font-size: 40px;
   color: #ffeead;
-  padding: 10px;
+  padding: 5px;
 }
 
 p {

@@ -12,7 +12,6 @@ html, body {
 
 .item > div {
   display: flex;
-
   font-size: 14px;
   color: #000000;
   background-color: #ffcc5c;
@@ -20,7 +19,8 @@ html, body {
 
 .title {
   grid-column: 2 / 5;
-    justify-content: center;
+  justify-content: center;
+  padding: 5px;
 }
 
 .text {
