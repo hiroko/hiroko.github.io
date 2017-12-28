@@ -1,0 +1,98 @@
+html, body {
+  background-color: #fff2e5;
+  margin: 5px;
+  font-family: 'Raleway', Helvetica, sans-serif;
+}
+
+.item {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.item > div {
+  display: flex;
+
+  font-size: 14px;
+  color: #000000;
+  background-color: #ffcc5c;
+}
+
+.title {
+  grid-column: 2 / 5;
+    justify-content: center;
+}
+
+.text {
+  grid-column: 2 / 5;
+    justify-content: center;
+  background-color: #fff2e5 !important;
+}
+
+.goal {
+  grid-column: 3 / 4;
+}
+
+.container {
+    margin: 10px;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(10, 100px);
+}
+
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: #ffeead;
+    background-color: #C0C0C0;
+    padding: 8px;
+}
+
+/*
+  Red = >$100
+  Orange = $50<x<$100
+  Yellow = $20<x<$50
+  Green = >$20
+  Blue = $0
+ */
+
+.red {
+  background-color: #B20000 !important;
+}
+
+.orange {
+  background-color: #FFA500 !important;
+}
+
+.yellow {
+  background-color: #d4d444 !important;
+}
+
+.green {
+  background-color: #008000 !important;
+}
+
+.blue {
+  background-color: #00007F !important;
+}
+
+.empty {
+  background-color: #ffcc5c !important;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: #ffeead;
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+  font-size: 15px;
+  padding: 3px;
+}
