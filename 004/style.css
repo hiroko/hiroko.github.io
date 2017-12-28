@@ -43,7 +43,7 @@ html, body {
     align-items: center;
     font-size: 2em;
     color: #ffeead;
-    /* background-color: #C0C0C0; */
+    background-color: #C0C0C0;
 }
 
 /*
@@ -55,27 +55,27 @@ html, body {
  */
 
 .red {
-  background-color: #B20000;
+  background-color: #B20000 !important;
 }
 
 .orange {
-  background-color: #FFA500;
+  background-color: #FFA500 !important;
 }
 
 .yellow {
-  background-color: #d4d444;
+  background-color: #d4d444 !important;
 }
 
 .green {
-  background-color: #008000;
+  background-color: #008000 !important;
 }
 
 .blue {
-  background-color: #00007F;
+  background-color: #00007F !important;
 }
 
 .empty {
-  background-color: #ffcc5c;
+  background-color: #ffcc5c !important;
 }
 
 
@@ -83,6 +83,7 @@ h1 {
   text-align: center;
   font-size: 45px;
   color: #ffeead;
+  padding: 10px;
 }
 
 p {
