@@ -1,0 +1,11 @@
+</div>
+		<div id="push"></div>
+      </div>
+      <div id="push"></div>
+    </div>
+    <div id="footer" style="text-align:center">
+      <div class="container">
+        <p class="footer-text"><a href="http://avmalformation.org" target="_blank">AVM Awareness Project</A> &#9733; <a href="http://burgundy4life.com" target="_blank">Burgundy for Life</A> '13</p>
+      </div>
+    </div>
+</body></html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)http://twitter.github.io/bootstrap/examples/sticky-footer.html -->
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Burgundy for Life</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Burgundy for Life is a shop hosted by AVM Awareness Project
+	to spread Arteriovenous Malformation & Aneurysm Awareness
+	through original hand-designed & hand-made gifts">
+    <meta name="author" content="Mark Finkelstein, Hiroko Nishimura">
+    <!-- CSS -->
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web:200' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon.ico"  type="image/x-icon" >
+  </head>
+  <body>
+    <div id="wrap">
+	    <div id="sidebar-wrapper" style="position:fixed;height:100%;left:0px;display:table;">
+		<div style="display:table-cell;text-align:left;vertical-align:middle;">
+			<table style="margin-top:175px">
+				<tr>
+					<td class="menu-item"><a href="index.php" style="color: #fff; font-family:abc_print; font-weight: 300; font-size: 23px;text-decoration: none;">HOME</A></td>
+				</tr>
+				<tr>
+					<td class="menu-item"><a href="about.php" style="color: #fff; font-family:abc_print; font-weight: 300; font-size: 23px;text-decoration: none;">ABOUT</A></td>
+				</tr>
+				<tr>
+					<td class="menu-item"><a href="http://aneurysmawareness.com" target="_blank" style="color: #fff; font-family:abc_print; font-weight: 300; font-size: 23px;text-decoration: none;">PRODUCTS</A></td>
+				</tr>
+				<tr>
+					<td class="menu-item"><a href="donation.php" style="color: #fff; font-family:abc_print; font-weight: 300; font-size: 23px;text-decoration: none;">DONATION</A></td>
+				</tr>				
+				<tr>
+					<td class="menu-item"><a href="exit.php" style="color: #fff; font-family:abc_print; font-weight: 300; font-size: 23px;text-decoration: none;">EXIT</A></td>
+				</tr>
+				<tr>
+				<td><a href="http://avmalformation.org" target="_blank" title="Part of AVM Awareness Project"><IMG SRC="images/avmalformation.png" style="margin-left: 25px; margin-top: 5px; padding: 2px; border: 5px solid #900021"></A></td>
+				</tr>
+<tr><td style="font-size: 12px; color: #900021;">
+&#9733;
+<script type="text/javascript">
+var sc_project=9178016; 
+var sc_invisible=0; 
+var sc_security="6c41d84f"; 
+var sc_text=2; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+<div class="statcounter"> <a title="free web stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/9178016/0/6c41d84f/0/"
+alt="free web stats"></a></div></noscript> visitors since 8/16/13</div></td></tr>
+			</table>
+		</div>
+	  </div>
+	  <div id="preload-01"></div>
+      <div class="container">
+	    <div class="row">
+			<div class='offset1 span10'>
+			<table style="width: 100%;table-layout: fixed;margin:30px 0px 20px; 0px;">
+				<tr>
+					<th id="logo"></th>
+					<th style="width:22px !important;">&nbsp </th>
+					<th style=""><p class='title'><a href="http://burgundy4life.com">Burgundy for Life</a> is a craft shop hosted by the <a href="http://avmalformation.org" target="_blank">AVM Awareness Project</a> to spread <a href="http://avmalformation.org/avm" target="_blank">Arteriovenous Malformation</a> & <a href="http://aneurysmawareness.com" target="_blank">Aneurysm</A> Awareness</a> through original hand-designed & hand-made gifts</p></th>
+				</tr>
+			</table>
+			</div>
+		</div>
+		<div class="row">
+		  <div class="span10 offset1">
